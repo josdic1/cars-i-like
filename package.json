@@ -1,0 +1,13 @@
+{
+  "name": "cars-i-like",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend",
+    "shared"
+  ],
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
